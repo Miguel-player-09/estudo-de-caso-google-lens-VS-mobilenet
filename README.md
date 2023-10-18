@@ -1,3 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<title>ESTUDO DE CASO</title>
+
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+    	<link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+    	<link href="https://fonts.googleapis.com/css2?family=Lexend+Tera&display=swap" rel="stylesheet">
+
+		<link rel="stylesheet" href="style.css" />
+
+	</head>
+
+	<body style="background-image: linear-gradient(to bottom, rgb(0, 170, 255), rgb(245, 71, 71));">
 
 		<div class="container">
 
@@ -143,3 +163,7 @@
     	<div class="copy_right_footer">
       		Desenvolvido por: Miguel Peruzzo
     	</div>
+
+	</body>
+
+</html>
